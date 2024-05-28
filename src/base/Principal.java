@@ -1,9 +1,9 @@
+package base;
 
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-gvhfghfghf
+	System.out.println("Hola Naaat");
 	}
-fdgbdfgdsfdsfg
+
 }
